@@ -1,0 +1,34 @@
+body {
+  background-color: powderblue;
+}
+
+h2 {
+        color: blue
+}
+.heading{
+  list-style: none;
+  text-align: center;
+}
+.heading li{
+  display: inline-block;
+  margin-left: 50px;
+}
+.heading a{
+  text-decoration: none;
+  color: FloralWhite;
+  font-weight: bold;
+  font-size: 150%;
+}
+.heading a:hover {
+  color: yellow;
+  transition: 0.7s;
+}
+.heading a:active {
+  color black;
+}
+footer{
+  text-align: center;
+  color: FloralWhite;
+  margin-top: 300px;
+}
+

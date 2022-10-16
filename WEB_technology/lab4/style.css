@@ -1,0 +1,92 @@
+body {
+  background-color: powderblue;
+}
+
+h2 {
+	color: red
+}
+h1 {
+        color: green
+}
+.logo img {
+  width:  400px;
+  height: 400px;
+  border-radius: 10px;
+  margin: auto;
+}
+.registration button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+.heading{
+  list-style: none;
+  text-align: center;
+}
+.heading li{
+  display: inline-block;
+  margin-left: 50px;
+}
+.heading a{
+  text-decoration: none;
+  color: FloralWhite;
+  font-weight: bold;
+  font-size: 150%;
+}
+.heading a:hover {
+  color: yellow;
+  transition: 0.7s;
+}
+.heading a:active {
+  color black;
+}
+.Catalog li {
+   list-style-type: none;
+}
+.Catalog a{
+  text-decoration: none;
+  color: FloralWhite;
+  font-weight: bold;
+  font-size: 150%;
+}
+.Catalog a:hover {
+  color: yellow;
+  transition: 0.7s;
+}
+.Partners li {
+   list-style-type: none;
+}
+.Partners a{
+  text-decoration: none;
+  color: FloralWhite;
+  font-weight: bold;
+  font-size: 150%;
+}
+.Partners a:hover {
+  color: yellow;
+  transition: 0.7s;
+}
+.offices li {
+   list-style-type: none;
+}
+.offices a{
+  text-decoration: none;
+  color: FloralWhite;
+  font-weight: bold;
+  font-size: 150%;
+}
+.offices a:hover {
+  color: yellow;
+  transition: 0.7s;
+}
+footer{
+  text-align: center;
+  color: FloralWhite;
+  margin-top: 250px;
+}
